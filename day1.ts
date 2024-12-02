@@ -1,5 +1,5 @@
 async function parse(): Promise<[number[], number[]]> {
-    const path = "input/input.txt";
+    const path = "input/day1.txt";
     const myFile = Bun.file(path);
 
     const myStream = await myFile.text();
