@@ -3,8 +3,8 @@
     "module": "index.ts",
     "type": "module",
     "scripts": {
-        "day1": "bun run day1.ts",
-        "day2": "bun run day2.ts"
+        "d1": "bun run day1.ts",
+        "d2": "bun run day2.ts"
     },
     "devDependencies": {
         "@types/bun": "latest",
